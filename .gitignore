@@ -1,0 +1,22 @@
+# Temporary Build Files
+build/_output
+build/_test
+
+# server auth directory
+/server/
+
+### Go ###
+# Binaries for programs and plugins
+__debug_bin
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+debug
+.vscode
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
